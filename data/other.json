@@ -1,0 +1,10 @@
+[
+  {
+    "data": null,
+    "contentType": 0,
+    "id": 0,
+    "entityName": "SA_DirectionArrow"
+  },
+  { "data": null, "contentType": 0, "id": 0, "entityName": "SA_MeterVoting" },
+  { "data": null, "contentType": 0, "id": 0, "entityName": "SA_RateIndicator" }
+]
